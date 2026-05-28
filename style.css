@@ -13,6 +13,21 @@ body {
     justify-content: space-between;
     align-items: center;
   }
+.whatsapp-float{
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:20px;
+    right:20px;
+    border-radius:50%;
+    background:#25D366;
+    color:white;
+    font-size:30px;
+    text-align:center;
+    line-height:60px;
+    text-decoration:none;
+    z-index:1000;
+}
   
   .logo {
     font-size: 1.5rem;
